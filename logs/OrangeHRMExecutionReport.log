@@ -1,0 +1,110 @@
+[INFO ] 28-04-2022 12:17:00.379 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 28-04-2022 12:17:01.632 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 12:17:01.754 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 28-04-2022 12:17:01.840 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 28-04-2022 12:17:03.216 TC001_Login_Test - Clicked on Login Button
+[INFO ] 28-04-2022 12:17:03.255 TC001_Login_Test - User login successfully
+[INFO ] 28-04-2022 12:17:03.436 TC001_Login_Test - Browser closed successfully
+[INFO ] 28-04-2022 12:17:21.564 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 28-04-2022 12:17:22.507 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 12:17:22.528 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 28-04-2022 12:17:22.720 TC002_CheckApplicationTitile - Browser closed successfully
+[INFO ] 28-04-2022 12:18:17.563 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 28-04-2022 12:18:18.561 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 12:18:18.701 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 28-04-2022 12:18:18.790 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 28-04-2022 12:18:20.162 TC001_Login_Test - Clicked on Login Button
+[INFO ] 28-04-2022 12:18:20.198 TC001_Login_Test - User login successfully
+[INFO ] 28-04-2022 12:18:20.380 TC001_Login_Test - Browser closed successfully
+[INFO ] 28-04-2022 12:23:54.288 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 28-04-2022 12:23:55.294 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 12:23:55.314 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 28-04-2022 12:23:55.497 TC002_CheckApplicationTitile - Browser closed successfully
+[INFO ] 28-04-2022 12:42:25.263 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 28-04-2022 12:42:26.412 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 28-04-2022 12:42:27.509 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 12:42:27.738 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 28-04-2022 12:42:27.855 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 28-04-2022 12:42:29.356 TC001_Login_Test - Clicked on Login Button
+[INFO ] 28-04-2022 12:42:29.412 TC001_Login_Test - User login successfully
+[INFO ] 28-04-2022 12:42:29.741 TC001_Login_Test - Browser closed successfully
+[INFO ] 28-04-2022 12:42:30.840 TC002_CheckApplicationTitile - Chrome Browser is launched successfully
+[INFO ] 28-04-2022 12:42:31.865 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 28-04-2022 12:42:32.942 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 12:42:32.952 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 28-04-2022 12:42:33.131 TC002_CheckApplicationTitile - Browser closed successfully
+[INFO ] 28-04-2022 01:45:26.003 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 28-04-2022 01:45:27.083 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 28-04-2022 01:45:28.245 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 01:45:28.471 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 28-04-2022 01:45:28.588 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 28-04-2022 01:45:30.075 TC001_Login_Test - Clicked on Login Button
+[INFO ] 28-04-2022 01:45:30.143 TC001_Login_Test - User login successfully
+[INFO ] 28-04-2022 01:45:30.603 TC001_Login_Test - Screenshots captures successfully
+[INFO ] 28-04-2022 01:45:30.961 TC001_Login_Test - Browser closed successfully
+[INFO ] 28-04-2022 01:45:32.988 TC002_CheckApplicationTitile - Chrome Browser is launched successfully
+[INFO ] 28-04-2022 01:45:33.993 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 28-04-2022 01:45:35.091 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 01:45:35.099 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 28-04-2022 01:45:35.707 TC002_CheckApplicationTitile - Screenshots captures successfully
+[INFO ] 28-04-2022 01:45:35.891 TC002_CheckApplicationTitile - Browser closed successfully
+[INFO ] 28-04-2022 01:49:21.635 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 28-04-2022 01:49:22.698 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 28-04-2022 01:49:23.743 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 01:49:23.900 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 28-04-2022 01:49:23.998 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 28-04-2022 01:49:25.542 TC001_Login_Test - Clicked on Login Button
+[INFO ] 28-04-2022 01:49:25.587 TC001_Login_Test - User login successfully
+[INFO ] 28-04-2022 01:49:26.056 TC001_Login_Test - Screenshots captures successfully
+[INFO ] 28-04-2022 01:49:26.261 TC001_Login_Test - Browser closed successfully
+[INFO ] 28-04-2022 01:49:27.674 TC002_CheckApplicationTitile - Chrome Browser is launched successfully
+[INFO ] 28-04-2022 01:49:28.842 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 28-04-2022 01:49:29.890 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 28-04-2022 01:49:29.900 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 28-04-2022 01:49:30.486 TC002_CheckApplicationTitile - Screenshots captures successfully
+[INFO ] 28-04-2022 01:49:30.675 TC002_CheckApplicationTitile - Browser closed successfully
+[INFO ] 02-05-2022 11:51:29.715 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 02-05-2022 11:51:31.013 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 02-05-2022 11:51:32.314 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 02-05-2022 11:51:32.562 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 02-05-2022 11:51:32.691 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 02-05-2022 11:51:34.168 TC001_Login_Test - Clicked on Login Button
+[INFO ] 02-05-2022 11:51:34.371 TC001_Login_Test - User login successfully
+[INFO ] 02-05-2022 11:51:34.780 TC001_Login_Test - Screenshots captures successfully
+[INFO ] 02-05-2022 11:51:35.186 TC001_Login_Test - Browser closed successfully
+[INFO ] 02-05-2022 11:51:37.257 TC002_CheckApplicationTitile - Chrome Browser is launched successfully
+[INFO ] 02-05-2022 11:51:38.391 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 02-05-2022 11:51:39.316 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 02-05-2022 11:51:39.325 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 02-05-2022 11:51:39.979 TC002_CheckApplicationTitile - Screenshots captures successfully
+[INFO ] 02-05-2022 11:51:40.230 TC002_CheckApplicationTitile - Browser closed successfully
+[INFO ] 02-05-2022 12:15:20.239 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 02-05-2022 12:15:21.184 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 02-05-2022 12:15:22.207 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 02-05-2022 12:15:22.398 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 02-05-2022 12:15:22.522 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 02-05-2022 12:15:23.911 TC001_Login_Test - Clicked on Login Button
+[INFO ] 02-05-2022 12:15:23.957 TC001_Login_Test - User login successfully
+[INFO ] 02-05-2022 12:15:24.419 TC001_Login_Test - Screenshots captures successfully
+[INFO ] 02-05-2022 12:15:24.660 TC001_Login_Test - Browser closed successfully
+[INFO ] 02-05-2022 12:15:26.515 TC002_CheckApplicationTitile - Chrome Browser is launched successfully
+[INFO ] 02-05-2022 12:15:27.625 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 02-05-2022 12:15:28.619 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 02-05-2022 12:15:28.638 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 02-05-2022 12:15:29.346 TC002_CheckApplicationTitile - Screenshots captures successfully
+[INFO ] 02-05-2022 12:15:29.571 TC002_CheckApplicationTitile - Browser closed successfully
+[INFO ] 02-05-2022 12:18:22.981 TC001_Login_Test - Chrome Browser is launched successfully
+[INFO ] 02-05-2022 12:18:23.961 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 02-05-2022 12:18:24.985 TC001_Login_Test - OrangeHRM Application is launched successfully
+[INFO ] 02-05-2022 12:18:25.165 TC001_Login_Test - Usernam enterd is: Admin
+[INFO ] 02-05-2022 12:18:25.280 TC001_Login_Test - PAssword enterd is: admin123
+[INFO ] 02-05-2022 12:18:26.779 TC001_Login_Test - Clicked on Login Button
+[INFO ] 02-05-2022 12:18:26.823 TC001_Login_Test - User login successfully
+[INFO ] 02-05-2022 12:18:27.315 TC001_Login_Test - Screenshots captures successfully
+[INFO ] 02-05-2022 12:18:27.518 TC001_Login_Test - Browser closed successfully
+[INFO ] 02-05-2022 12:18:28.877 TC002_CheckApplicationTitile - Chrome Browser is launched successfully
+[INFO ] 02-05-2022 12:18:29.841 TC002_CheckApplicationTitile - Chrome browser is launched successfully
+[INFO ] 02-05-2022 12:18:30.893 TC002_CheckApplicationTitile - OrangeHRM Application is launched successfully
+[INFO ] 02-05-2022 12:18:30.901 TC002_CheckApplicationTitile - Title of application is OrangeHRM
+[INFO ] 02-05-2022 12:18:31.491 TC002_CheckApplicationTitile - Screenshots captures successfully
+[INFO ] 02-05-2022 12:18:31.694 TC002_CheckApplicationTitile - Browser closed successfully

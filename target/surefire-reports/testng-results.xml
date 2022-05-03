@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-02T12:18:20 EDT" name="RegressionSuite" finished-at="2022-05-02T12:18:31 EDT" duration-ms="11025">
+    <groups>
+    </groups>
+    <test started-at="2022-05-02T12:18:20 EDT" name="TC001_Login_Test" finished-at="2022-05-02T12:18:27 EDT" duration-ms="6850">
+      <class name="com.OrangeHRM.testCases.TC001_Login_Test">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.testCases.TC001_Login_Test@1a6c1270]" started-at="2022-05-02T12:18:20 EDT" name="setup" finished-at="2022-05-02T12:18:24 EDT" duration-ms="4192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.OrangeHRM.testCases.TC001_Login_Test@1a6c1270]" started-at="2022-05-02T12:18:24 EDT" name="loginTest" finished-at="2022-05-02T12:18:27 EDT" duration-ms="2319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.OrangeHRM.testCases.TC001_Login_Test@1a6c1270]" started-at="2022-05-02T12:18:27 EDT" name="teardown" finished-at="2022-05-02T12:18:27 EDT" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.OrangeHRM.testCases.TC001_Login_Test -->
+    </test> <!-- TC001_Login_Test -->
+    <test started-at="2022-05-02T12:18:27 EDT" name="TC002_CheckApplicationTitile" finished-at="2022-05-02T12:18:31 EDT" duration-ms="3782">
+      <class name="com.OrangeHRM.testCases.TC002_CheckApplicationTitile">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.testCases.TC002_CheckApplicationTitile@63798ca7]" started-at="2022-05-02T12:18:27 EDT" name="setup" finished-at="2022-05-02T12:18:30 EDT" duration-ms="2977" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkAppTitle()[pri:0, instance:com.OrangeHRM.testCases.TC002_CheckApplicationTitile@63798ca7]" started-at="2022-05-02T12:18:30 EDT" name="checkAppTitle" finished-at="2022-05-02T12:18:31 EDT" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAppTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.OrangeHRM.testCases.TC002_CheckApplicationTitile@63798ca7]" started-at="2022-05-02T12:18:31 EDT" name="teardown" finished-at="2022-05-02T12:18:31 EDT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.OrangeHRM.testCases.TC002_CheckApplicationTitile -->
+    </test> <!-- TC002_CheckApplicationTitile -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
